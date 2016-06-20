@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMSSDKDemo</string>
+    <string name="btn_bind_phone">绑定或注册短信验证</string>
+</resources>
